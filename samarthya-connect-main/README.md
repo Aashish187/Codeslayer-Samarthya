@@ -1,4 +1,4 @@
-# Samarthya 
+# Samarthya - 
 
 Skill-Based MSME–Student Collaboration Platform
 Theme: TH01 – Open Innovation
@@ -60,7 +60,6 @@ Gain real-world experience
 Build industry-validated portfolios
 
 <img width="1899" height="757" alt="Screenshot 2026-02-08 232411" src="https://github.com/user-attachments/assets/05c64a49-c057-42d8-befc-b82f1fedbc54" />
-
 
 Government - 
 Track skill demand
