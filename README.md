@@ -157,7 +157,7 @@ Team Leader: Aditi Dubey
 Mobile number - 8815370260
 Team Members: 4
 
-## 📚 REFERENCES -
+##  REFERENCES -
 
 Ministry of MSME – Annual Report 2024–25
 Udyam Registration Portal
